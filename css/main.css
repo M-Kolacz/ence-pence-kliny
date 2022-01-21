@@ -10338,3 +10338,12 @@ only screen and (min-device-pixel-ratio: 1.5) {
     line-height: 1;
     font-weight: 700;
 }
+
+.li_item_star{
+    list-style-image: url('../img/icons/star.png');
+    transform: translateX(28px);
+    font-size: 27px;
+}
+.li_item_star::before{
+    content: "" !important;
+}
