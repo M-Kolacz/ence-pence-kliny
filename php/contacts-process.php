@@ -6,7 +6,7 @@ error_reporting(0);
 
 if (isset($_REQUEST['action'])) {
     if ($_REQUEST['action'] == "email_server_responce") {
-        $ourMail = "biuro@pence.pl"; //Insert your email address here
+        $ourMail = "encepencekliny@gmail.com"; //Insert your email address here
         $pre_messagebody_info = "";
         $errors = array();
         $data = array();
